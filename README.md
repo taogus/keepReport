@@ -13,7 +13,7 @@ keepReport一款Web数据分析报表工具，拥有精美直观界面设计，�
 ### 1、配置远程仓库
 ```xml
 <repository>
-    <id>keep-report-releases-test</id>
+    <id>keep-report-releases</id>
     <url>https://maven.tt-u.cn/maven/repository</url>
 </repository>
 ```

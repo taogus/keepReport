@@ -19,7 +19,7 @@
 
     <repositories>
         <repository>
-            <id>keep-report-releases-test</id>
+            <id>keep-report-releases</id>
             <url>https://maven.tt-u.cn/maven/repository</url>
         </repository>
     </repositories>
