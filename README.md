@@ -32,6 +32,11 @@ keepReport一款Web数据分析报表工具，拥有精美直观界面设计，�
 - 运行Spring Boot `ReportDemoApplication` main 方法
 - 启动服务后访问地址：`http://localhost:8888/keepReport/index`
 
+## 项目配置
+
+- 更改授权码文件内容目录：`/resources/static/license/march-license.txt`
+- 更改LOGO文件目录：`/resources/static/designer/img/noBg.png`
+
 ## 演示
 地址：[演示地址](http://demo.tt-u.cn/keepReport/keepReport)
 
