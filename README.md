@@ -29,6 +29,8 @@ keepReport一款Web数据分析报表工具，拥有精美直观界面设计，�
 
 ## 项目启动
 
+> 如需授权请联系下方的微信
+
 - 运行Spring Boot `ReportDemoApplication` main 方法
 - 启动服务后访问地址：`http://localhost:8888/keepReport/index`
 
