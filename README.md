@@ -19,11 +19,13 @@ keepReport一款Web数据分析报表工具，拥有精美直观界面设计，�
 ```
 
 ### 2、配置依赖包
+> 安装依赖包需要大概几分钟，中文字体包较大
+
 ```xml
 <dependency>
     <groupId>com.march.report</groupId>
     <artifactId>keep-report-spring-boot-starter</artifactId>
-    <version>1.0</version>
+    <version>1.0.1</version> <!-- 最新版本请到在线文档查看 -->
 </dependency>
 ```
 
@@ -44,6 +46,24 @@ keepReport一款Web数据分析报表工具，拥有精美直观界面设计，�
 
 ## 界面
 ![img.png](/images/img.png)
+
+## 报表示例
+
+### 背景套打
+![背景套打](/images/bgImgReport.png)
+
+### 订单明细表
+![订单明细表](/images/orderDetails.png)
+
+### 数据钻取
+![数据钻取](/images/dataDrilling.png)
+
+### 分页重复表头
+![重复表头](/images/repeatHeader.png)
+
+### 分页打印
+![分页打印](/images/ledgerPrint.png)
+
 
 ## 交流
 | 微信扫码添加交流                  | 付款码                          |

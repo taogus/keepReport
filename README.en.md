@@ -1,37 +1,71 @@
-# keepReport
+![LOGO](/images/logo.png)
 
-#### Description
-keepReport一款Web数据分析报表工具
+## 简介
+keepReport一款Web数据分析报表工具，拥有精美直观界面设计，简单易用的操作体验，
+提供了丰富的自定义选项，用户可根据实际业务需求自由配置报表样式，制作各式各样的的中国式报表
+
+## 文档
+
+进入在线文档：[点击查看](https://wiki.tt-u.cn/)
+
+## 安装
+
+### 1、配置远程仓库
+```xml
+<repository>
+    <id>keep-report-releases</id>
+    <url>https://maven.tt-u.cn/maven/repository</url>
+</repository>
+```
+
+### 2、配置依赖包
+> 安装依赖包需要大概几分钟，中文字体包较大
+
+```xml
+<dependency>
+    <groupId>com.march.report</groupId>
+    <artifactId>keep-report-spring-boot-starter</artifactId>
+    <version>1.0.1</version> <!-- 最新版本请到在线文档查看 -->
+</dependency>
+```
+
+## 项目启动
+
+> 如需授权请联系下方的微信
+
+- 运行Spring Boot `ReportDemoApplication` main 方法
+- 启动服务后访问地址：`http://localhost:8888/keepReport/index`
+
+## 项目配置
+
+- 更改授权码文件内容目录：`/resources/static/license/march-license.txt`
+- 更改LOGO文件目录：`/resources/static/designer/img/noBg.png`
+
+## 演示
+地址：[演示地址](http://demo.tt-u.cn/keepReport/keepReport)
+
+## 界面
+![img.png](/images/img.png)
+
+## 报表示例
+
+### 背景套打
+![背景套打](/images/bgImgReport.png)
+
+### 订单明细表
+![订单明细表](/images/orderDetails.png)
+
+### 数据钻取
+![数据钻取](/images/dataDrilling.png)
+
+### 分页重复表头
+![重复表头](/images/repeatHeader.png)
+
+### 分页打印
+![分页打印](/images/ledgerPrint.png)
 
 
-#### Software Architecture
-Software architecture description
-
-#### Installation
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Instructions
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Contribution
-
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
-
-
-#### Gitee Feature
-
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+## 交流
+| 微信扫码添加交流                  | 付款码                          |
+|---------------------------|------------------------------|
+| ![输入图片说明](/images/wx.png) | ![输入图片说明](/images/wxpay.png) |
