@@ -25,7 +25,7 @@ keepReport一款Web数据分析报表工具，拥有精美直观界面设计，�
 <dependency>
     <groupId>com.march.report</groupId>
     <artifactId>keep-report-spring-boot-starter</artifactId>
-    <version>1.0.1</version> <!-- 最新版本请到在线文档查看 -->
+    <version>1.0.2</version> <!-- 最新版本请到在线文档查看 -->
 </dependency>
 ```
 
