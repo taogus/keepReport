@@ -8,6 +8,9 @@ keepReport一款Web数据分析报表工具，拥有精美直观界面设计，�
 
 进入在线文档：[点击查看](https://wiki.tt-u.cn/)
 
+## 更新日志
+进入更新日志：[点击查看](https://wiki.tt-u.cn/zn/guide/%E5%BC%80%E5%8F%91%E8%AE%A1%E5%88%92/1.0.3.html)
+
 ## 安装
 
 ### 1、配置远程仓库
