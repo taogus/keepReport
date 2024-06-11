@@ -26,10 +26,10 @@ spring:
 
 #--------------keepReport配置--------------#
 keepReport:
+  # 首页标题
+  title: keepReport-Web数据分析报表工具
   # 设计首页地址路径
   indexPath: /index
-  # 是否开启文件储存系统
-  enableFileProvider: true
   # 保存报表文件文件夹
   fileStoreDir: keep-report-files
   # 是否使用redis作为缓存
