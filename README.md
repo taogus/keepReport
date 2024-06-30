@@ -9,7 +9,7 @@ keepReport一款Web数据分析报表工具，拥有精美直观界面设计，�
 进入在线文档：[点击查看](https://wiki.tt-u.cn/)
 
 ## 更新日志
-进入更新日志：[点击查看](https://wiki.tt-u.cn/zn/guide/%E5%BC%80%E5%8F%91%E8%AE%A1%E5%88%92/1.0.3.html)
+进入更新日志：[点击查看](https://wiki.tt-u.cn/zn/guide/%E5%BC%80%E5%8F%91%E8%AE%A1%E5%88%92/1.0.4.html)
 
 ## 安装
 
@@ -28,7 +28,7 @@ keepReport一款Web数据分析报表工具，拥有精美直观界面设计，�
 <dependency>
     <groupId>com.march.report</groupId>
     <artifactId>keep-report-spring-boot-starter</artifactId>
-    <version>1.0.3</version> <!-- 最新版本请到在线文档查看 -->
+    <version>1.0.4</version> <!-- 最新版本请到在线文档查看 -->
 </dependency>
 ```
 
