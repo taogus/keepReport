@@ -6,10 +6,10 @@ keepReport一款Web数据分析报表工具，拥有精美直观界面设计，�
 
 ## 文档
 
-进入在线文档：[点击查看](https://wiki.tt-u.cn/)
+进入在线文档：[点击查看](https://www.keepreport.com/)
 
 ## 更新日志
-1.0.5更新日志：[点击查看](https://wiki.tt-u.cn/zn/guide/%E5%BC%80%E5%8F%91%E8%AE%A1%E5%88%92/1.0.5.html)
+1.0.6更新日志：[点击查看](https://www.keepreport.com/zn/guide/%E5%BC%80%E5%8F%91%E8%AE%A1%E5%88%92/1.0.6.html)
 
 ## 安装
 
@@ -17,7 +17,7 @@ keepReport一款Web数据分析报表工具，拥有精美直观界面设计，�
 ```xml
 <repository>
     <id>keep-report-releases</id>
-    <url>https://maven.tt-u.cn/maven/repository</url>
+    <url>https://maven.keepreport.com/maven/repository</url>
 </repository>
 ```
 
@@ -28,7 +28,7 @@ keepReport一款Web数据分析报表工具，拥有精美直观界面设计，�
 <dependency>
     <groupId>com.march.report</groupId>
     <artifactId>keep-report-spring-boot-starter</artifactId>
-    <version>1.0.5</version> <!-- 最新版本请到在线文档查看 -->
+    <version>1.0.6</version> <!-- 最新版本请到在线文档查看 -->
 </dependency>
 ```
 
@@ -46,7 +46,7 @@ keepReport一款Web数据分析报表工具，拥有精美直观界面设计，�
 - 更改LOGO文件目录：`/resources/static/designer/img/logo.png`
 
 ## 演示
-地址：[演示地址](http://demo.tt-u.cn/keepReport/keepReport)
+地址：[演示地址](http://demo.keepreport.com/keepReport/keepReport)
 
 ## 界面
 ![img.png](/images/img.png)

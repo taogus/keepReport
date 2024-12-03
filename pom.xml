@@ -20,7 +20,7 @@
     <repositories>
         <repository>
             <id>keep-report-releases</id>
-            <url>https://maven.tt-u.cn/maven/repository</url>
+            <url>https://maven.keepreport.com/maven/repository</url>
         </repository>
     </repositories>
 
@@ -49,7 +49,7 @@
         <dependency>
             <groupId>com.march.report</groupId>
             <artifactId>keep-report-spring-boot-starter</artifactId>
-            <version>1.0.5</version>
+            <version>1.0.6</version>
         </dependency>
     </dependencies>
 
